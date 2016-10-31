@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mmyweither</string>
+    <string name="title_activity_main">垃圾天气</string>
+
+    <string name="title_activity_z">ZActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
